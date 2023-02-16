@@ -13,4 +13,12 @@ public class Solid {
 	 *
 	 * Dependency Inversion Principle
 	 * */
+
+	/**
+	 * SRP, Single Responsibility Principle
+	 *
+	 * There should never be more than one reason for a class to change.
+	 *
+	 * The class provides a very focused functionality or it addresses a specific concern of our desired functionality.
+	 * */
 }
