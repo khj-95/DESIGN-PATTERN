@@ -13,5 +13,11 @@ public class Client {
         LazyRegistryWithDCL registryWithDCL1 = LazyRegistryWithDCL.getInstance();
 
         System.out.println(registryWithDCL == registryWithDCL1);
+
+        LazyRegistryIODH registryIODH;
+        registryIODH = LazyRegistryIODH.getInstance();
+        registryIODH = LazyRegistryIODH.getInstance();
+        registryIODH = LazyRegistryIODH.getInstance();
+        registryIODH = LazyRegistryIODH.getInstance();
     }
 }
